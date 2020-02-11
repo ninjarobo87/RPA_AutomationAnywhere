@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Files-Folders.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/08/2020 17:35:39</Property>
+      <Property Name="RunDuration">00:00:32</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Variables.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/08/2020 17:38:07</Property>
+      <Property Name="RunDuration">00:00:32</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>
